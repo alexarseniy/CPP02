@@ -6,7 +6,7 @@
 #    By: olarseni <olarseni@student.42madrid.c      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/11/08 18:42:34 by olarseni          #+#    #+#              #
-#    Updated: 2025/11/16 14:44:13 by olarseni         ###   ########.fr        #
+#    Updated: 2025/11/16 21:54:00 by olarseni         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,7 +14,7 @@
 #									VARIABLES								   #
 #==============================================================================#
 
-NAME	=	Harl_2.0
+NAME	=	MyFirstClassinOrthodoxCanonicalForm
 
 VPATH	=	./
 SRCS	=	main.cpp	\
